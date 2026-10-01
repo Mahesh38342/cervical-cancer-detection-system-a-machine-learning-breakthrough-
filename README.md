@@ -9,8 +9,8 @@ Python, Pandas, Scikit-Learn, Random Forest
 Accuracy: 95%+
 
 ### How to Run
-pip install -r Requirements.txt
-python app.py
+    pip install -r Requirements.txt
+    python app.py
 
 ### LinkedIn
 Add your LinkedIn link here
