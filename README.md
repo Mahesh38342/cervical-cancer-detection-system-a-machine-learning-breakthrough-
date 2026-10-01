@@ -13,4 +13,4 @@ Accuracy: 95%+
     python app.py
 
 ### LinkedIn
-Add your LinkedIn link here
+https://www.linkedin.com/in/besta-mahesh-a05aa4315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
