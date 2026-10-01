@@ -1,0 +1,20 @@
+# cervical-cancer-detection-system-a-machine-learning-breakthrough-
+# Cervical Cancer Detection System - Machine Learning Breakthrough
+
+### B.Tech AI & Data Science Project | Besta Mahesh
+
+**Problem:** Early detection of cervical cancer using behavioral & medical data.
+
+**Tech Stack:** Python, Pandas, Scikit-Learn, Random Forest
+
+**Accuracy Achieved:** 95%+
+
+**How to Run:**
+1. pip install -r requirements.txt
+2. python app.py
+
+**Features Used:** Age, Smoking, Hormonal Contraceptives, STDs, etc.
+**Target:** Biopsy Result (Cancer / No Cancer)
+
+**GitHub:** Mahesh38342
+**LinkedIn:** [Add your LinkedIn]
